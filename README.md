@@ -1,4 +1,12 @@
-# Cloudflare Workers Internship Application: Full-Stack
+# Cloudflare Workers, HTML Re-Writer : Full-Stack Experiment
+
+## Why?
+
+To learn more about Cloudflare Workers, HTML Re-Writer.
+
+Access it here: https://cloudflare-djk.deploy-worker-app.workers.dev/
+
+If it is NOT up, a dependent server may have been decommissioned (it was up as of 7th May 2020). In that case, please let me know at dheeraj.k@berkeley.edu and I should be able to put a backup online.
 
 ## What is it?
 
@@ -56,12 +64,6 @@ Every Workers user has access to a free, unique workers.dev subdomain, which all
 ### 2. A user should be able to visit the deployed version of the site
 
 Using wrangler's `publish` command, you can deploy your application and make it available under your workers.dev subdomain. Make sure to include this when you submit your project!
-
-## Submitting your project
-
-When submitting your project, you should prepare your code for upload to Greenhouse. The preferred method for doing this is to create a "ZIP archive" of your project folder: for more instructions on how to do this on Windows and Mac, see [this guide](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/).
-
-In addition to submitting your project code, you should also submit the URL of your deployed project (see "Deployment"). This will be in the format `your-project-name.your-subdomain.workers.dev`.
 
 ## Extra Credit
 
